@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/zoemond/chrome-extension-kick-starter#readme",
   "devDependencies": {
+    "copy-webpack-plugin": "^5.0.4",
     "ts-loader": "^6.0.4",
     "typescript": "^3.5.3",
     "webpack": "^4.38.0",
