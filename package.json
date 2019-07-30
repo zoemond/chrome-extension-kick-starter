@@ -1,0 +1,19 @@
+{
+  "name": "chrome-extension-kick-starter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zoemond/chrome-extension-kick-starter.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zoemond/chrome-extension-kick-starter/issues"
+  },
+  "homepage": "https://github.com/zoemond/chrome-extension-kick-starter#readme"
+}
