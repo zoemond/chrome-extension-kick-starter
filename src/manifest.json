@@ -1,0 +1,21 @@
+{
+    "name": "",
+    "version": "0.0.1",
+    "manifest_version": 2,
+    "description": "",
+    "icons": {
+        "16": "icons/icon16.png",
+        "48": "icons/icon48.png",
+        "128": "icons/icon128.png"
+    },
+    "background": {
+        "scripts": ["background/bundle.js"],
+        "persistent": false
+    },
+    "content_scripts": [
+        {
+            "matches": [ "http://*/*", "https://*/*" ],
+            "js": [ "content_scripts/bundle.js" ]
+        }
+    ]
+}
